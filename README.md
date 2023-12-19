@@ -1,3 +1,5 @@
+  Abstract 
+  
 Para un modelo simplificado de la red de metro
 de Santiago de Chile se tiene como objetivo minimizar
 el tiempo total de espera para el transbordo de pasajeros
