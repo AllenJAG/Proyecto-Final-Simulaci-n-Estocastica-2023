@@ -3,16 +3,16 @@
 Para un modelo simplificado de la red de metro
 de Santiago de Chile se tiene como objetivo minimizar
 el tiempo total de espera para el transbordo de pasajeros
-entre lineas de metro ajustando el tiempo de env´ıo del primer
-tren t0, el tiempo de circulaci´on entre estaciones tR y
-el tiempo de permanencia en la estaci´on tDw, esto en cada
-l´ınea de metro a trav´es de Simulated Annealing(SA), como
+entre lineas de metro ajustando el tiempo de envío del primer
+tren t0, el tiempo de circulación entre estaciones t_R y
+el tiempo de permanencia en la estación t_Dw, esto en cada
+línea de metro a trav´es de Simulated Annealing(SA), como
 es realizado en los paper[1][2] y un algoritmo de generaci´on
 de tiempos factibles llamado Vector Modifying Algorithm
 [1] con datos de tiempo generados por v.a uniformes en
 rangos adecuados.
 
-Se sigue la metodolog´ıa del paper[1] llamado “A simulated
+Se sigue la metodología del paper[1] llamado “A simulated
 annealing algorithm for first train transfer problem in
 urban railway networks”donde se especifica que para determinar
 un horario sincronizado tal que no aumente el
