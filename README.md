@@ -1,3 +1,9 @@
+
+Curso : Simulación Estocástica: Teoría y Laboratorio - FCFM  U.Chile - Primavera 2023
+
+Profesor: Joaquin Fontbona T. 
+  
+  
   Abstract 
   
 Para un modelo simplificado de la red de metro
